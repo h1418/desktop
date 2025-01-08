@@ -12,7 +12,7 @@ Originally created as "electron-mattermost" by Yuya Ochiai.
 
 ### Desktop integration
 * Server dropdown for access to multiple servers
-* Dedicated tabs for Channels, Boards and Playbooks
+* Dedicated tabs for Channels, Boards and Playboeeoks
 * Desktop Notifications
 * Badges for unread channels and mentions
 * Deep Linking to open Mattermost links directly in the app
