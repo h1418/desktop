@@ -11,7 +11,7 @@ Originally created as "electron-mattermost" by Yuya Ochiai.
 ## Features
 
 ### Desktop integration
-* Server dropdown for access to multiple servers
+* Server dropdown for access to multiple serverstt
 * Dedicated tabs for Channels, Boards and Playbooks
 * Desktop Notifications
 * Badges for unread channels and mentions
